@@ -1,0 +1,6 @@
+Nota Curso Programacion: 61
+Nota Curso Algoritmoas: 62
+Nota Curso Logica de Sistemas: 62
+**************************
+Nota Mayor de todas: 63
+Promedio: 62
